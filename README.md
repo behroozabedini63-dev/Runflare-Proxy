@@ -379,4 +379,4 @@ docker run --rm -p 3000:3000 -p 8000:8000 `
   relay-control
 ```
 
-The Dockerfile uses `node:22-alpine` and does not run `npm install`.
+The Dockerfile uses `node:22-alpine` and does not run `npm install`. 
